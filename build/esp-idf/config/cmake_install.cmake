@@ -1,4 +1,4 @@
-# Install script for directory: /auto/fsi/ben1457/ecen330/components/config
+# Install script for directory: /auto/fsi/ben1457/BYUTD/components/config
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

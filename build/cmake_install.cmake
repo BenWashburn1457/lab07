@@ -1,4 +1,4 @@
-# Install script for directory: /auto/fsi/ben1457/ecen330/lab07
+# Install script for directory: /auto/fsi/ben1457/BYUTD/lab07
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/auto/fsi/ben1457/ecen330/lab07/build/esp-idf/cmake_install.cmake")
+  include("/auto/fsi/ben1457/BYUTD/lab07/build/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/auto/fsi/ben1457/ecen330/lab07/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/auto/fsi/ben1457/BYUTD/lab07/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -1,4 +1,4 @@
-/* * Data converted from /auto/fsi/ben1457/ecen330/lab07/build/esp-idf/mbedtls/x509_crt_bundle
+/* * Data converted from /auto/fsi/ben1457/BYUTD/lab07/build/esp-idf/mbedtls/x509_crt_bundle
  */
 .data
 .section .rodata.embedded

@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/auto/fsi/ben1457/ecen330/lab07/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
+  include("/auto/fsi/ben1457/BYUTD/lab07/build/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake")
 endif()
 

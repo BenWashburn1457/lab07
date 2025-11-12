@@ -1,4 +1,4 @@
-# Install script for directory: /auto/fsi/ben1457/ecen330/components/joy
+# Install script for directory: /auto/fsi/ben1457/BYUTD/components/joy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

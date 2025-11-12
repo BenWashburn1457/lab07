@@ -1,4 +1,4 @@
-# Install script for directory: /auto/fsi/ben1457/ecen330/lab07/main
+# Install script for directory: /auto/fsi/ben1457/BYUTD/lab07/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

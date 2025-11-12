@@ -5,7 +5,7 @@
 
 void course_init(void);
 
-void course_tick(void);
+void draw_course(void);
 
 
 

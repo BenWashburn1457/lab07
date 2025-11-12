@@ -113,8 +113,8 @@ void app_main(void)
 		lcd_fillScreen(CONFIG_COLOR_BACKGROUND);
 #endif // CONFIG_ERASE
 		game_tick();
-		course_tick();
 		cursor_tick();
+		draw_course();
 		cursor_get_pos(&x, &y);
 #ifdef CONFIG_ERASE
 		static coord_t lx = -1, ly = -1;

@@ -814,7 +814,7 @@ rule C_STATIC_LIBRARY_LINKER____idf_main_
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /usr/bin/cmake --regenerate-during-build -S/auto/fsi/ben1457/ecen330/lab07 -B/auto/fsi/ben1457/ecen330/lab07/build
+  command = /usr/bin/cmake --regenerate-during-build -S/auto/fsi/ben1457/BYUTD/lab07 -B/auto/fsi/ben1457/BYUTD/lab07/build
   description = Re-running CMake...
   generator = 1
 
