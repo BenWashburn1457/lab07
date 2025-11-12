@@ -1,0 +1,17 @@
+-- Building ESP-IDF components for target esp32
+-- Project sdkconfig file /auto/fsi/ben1457/ecen330/lab07/sdkconfig
+Loading defaults file /auto/fsi/ben1457/ecen330/lab07/sdkconfig.defaults...
+-- Compiler supported targets: xtensa-esp-elf
+-- App "lab07" version: 131cdc4-dirty
+-- Adding linker script /auto/fsi/ben1457/ecen330/lab07/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script /opt/esp5/esp-idf/components/esp_system/ld/esp32/sections.ld.in
+-- Adding linker script /opt/esp5/esp-idf/components/esp_rom/esp32/ld/esp32.rom.ld
+-- Adding linker script /opt/esp5/esp-idf/components/esp_rom/esp32/ld/esp32.rom.api.ld
+-- Adding linker script /opt/esp5/esp-idf/components/esp_rom/esp32/ld/esp32.rom.libgcc.ld
+-- Adding linker script /opt/esp5/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-data.ld
+-- Adding linker script /opt/esp5/esp-idf/components/esp_rom/esp32/ld/esp32.rom.syscalls.ld
+-- Adding linker script /opt/esp5/esp-idf/components/esp_rom/esp32/ld/esp32.rom.newlib-funcs.ld
+-- Adding linker script /opt/esp5/esp-idf/components/soc/esp32/ld/esp32.peripherals.ld
+-- Components: app_update bootloader bootloader_support config cursor cxx driver efuse esp_adc esp_app_format esp_bootloader_format esp_common esp_hw_support esp_mm esp_partition esp_pm esp_ringbuf esp_rom esp_system esp_timer esptool_py freertos hal heap joy lcd log main mbedtls newlib partition_table pin pthread soc sound spi_flash xtensa
+-- Component paths: /opt/esp5/esp-idf/components/app_update /opt/esp5/esp-idf/components/bootloader /opt/esp5/esp-idf/components/bootloader_support /auto/fsi/ben1457/ecen330/components/config /auto/fsi/ben1457/ecen330/components/cursor /opt/esp5/esp-idf/components/cxx /opt/esp5/esp-idf/components/driver /opt/esp5/esp-idf/components/efuse /opt/esp5/esp-idf/components/esp_adc /opt/esp5/esp-idf/components/esp_app_format /opt/esp5/esp-idf/components/esp_bootloader_format /opt/esp5/esp-idf/components/esp_common /opt/esp5/esp-idf/components/esp_hw_support /opt/esp5/esp-idf/components/esp_mm /opt/esp5/esp-idf/components/esp_partition /opt/esp5/esp-idf/components/esp_pm /opt/esp5/esp-idf/components/esp_ringbuf /opt/esp5/esp-idf/components/esp_rom /opt/esp5/esp-idf/components/esp_system /opt/esp5/esp-idf/components/esp_timer /opt/esp5/esp-idf/components/esptool_py /opt/esp5/esp-idf/components/freertos /opt/esp5/esp-idf/components/hal /opt/esp5/esp-idf/components/heap /auto/fsi/ben1457/ecen330/components/joy /auto/fsi/ben1457/ecen330/components/lcd /opt/esp5/esp-idf/components/log /auto/fsi/ben1457/ecen330/lab07/main /opt/esp5/esp-idf/components/mbedtls /opt/esp5/esp-idf/components/newlib /opt/esp5/esp-idf/components/partition_table /auto/fsi/ben1457/ecen330/components/pin /opt/esp5/esp-idf/components/pthread /opt/esp5/esp-idf/components/soc /auto/fsi/ben1457/ecen330/components/sound /opt/esp5/esp-idf/components/spi_flash /opt/esp5/esp-idf/components/xtensa
+-- Configuring done (3.6s)
