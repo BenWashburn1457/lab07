@@ -1,7 +1,7 @@
 {
     "version":            "1.1",
     "project_name":       "lab07",
-    "project_version":    "cf28820-dirty",
+    "project_version":    "a86bf69-dirty",
     "project_path":       "/auto/fsi/ben1457/BYUTD/lab07",
     "idf_path":           "/opt/esp5/esp-idf",
     "build_dir":          "/auto/fsi/ben1457/BYUTD/lab07/build",
